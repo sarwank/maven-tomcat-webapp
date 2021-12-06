@@ -5,7 +5,7 @@
     <title>JSP - Hello Delhi</title>
 </head>
 <body>
-<h1><%= "Hello Najafgarh! gopal nagar" %>
+<h1><%= "Hello Najafgarh! gopal nagar shyam enclave" %>
 </h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
