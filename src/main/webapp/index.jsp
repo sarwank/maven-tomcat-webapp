@@ -5,7 +5,7 @@
     <title>JSP - T-MAVEN WEBAPP</title>
 </head>
 <body>
-<h1><%= "Hello guys, this modified webwage is auto build by jenkins and MAVEN, DELHIIIIIIIIII" %>
+<h1><%= "Hello guys, this modified webwage is auto build by UDIT JII" %>
 </h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
