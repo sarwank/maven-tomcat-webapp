@@ -30,7 +30,7 @@ jobs:
         java-version: '11'
         distribution: 'adopt'
     - run: mvn --batch-mode --update-snapshots verify
-    - run: mkdir staging && cp target/demo-1.0-SNAPSHOT staging
+    - run: mkdir staging && cp -r target/demo-1.0-SNAPSHOT staging
     - uses: actions/upload-artifact@v3
       with:
         name: Package
